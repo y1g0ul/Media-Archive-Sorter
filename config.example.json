@@ -1,11 +1,11 @@
 {
-  "exifTool": "C:\\Tools\\exiftool.exe",
+  "exifTool": "C:\\PATH\\TO\\exiftool.exe",
   "sources": [
-    "D:\\Archive\\Media",
-    "F:\\"
+    "D:\\PATH\\TO\\SOURCE_1",
+    "E:\\PATH\\TO\\SOURCE_2"
   ],
-  "destinationRoot": "G:\\Archive\\Sorted",
-  "logDir": "G:\\Archive\\logs",
+  "destinationRoot": "F:\\PATH\\TO\\ARCHIVE\\Sorted",
+  "logDir": "F:\\PATH\\TO\\ARCHIVE\\logs",
   "verifyHashAfterCopy": false,
   "ignoredDirectories": [
     "$RECYCLE.BIN",
