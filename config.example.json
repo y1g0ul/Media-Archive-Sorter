@@ -1,0 +1,60 @@
+{
+  "exifTool": "C:\\Tools\\exiftool.exe",
+  "sources": [
+    "D:\\Archive\\Media",
+    "F:\\"
+  ],
+  "destinationRoot": "G:\\Archive\\Sorted",
+  "logDir": "G:\\Archive\\logs",
+  "verifyHashAfterCopy": false,
+  "ignoredDirectories": [
+    "$RECYCLE.BIN",
+    "RECYCLER",
+    "System Volume Information"
+  ],
+  "extensions": {
+    "photos": [
+      "jpg",
+      "jpeg",
+      "png",
+      "heic",
+      "webp",
+      "bmp",
+      "gif",
+      "tif",
+      "tiff",
+      "avif",
+      "dng",
+      "cr2",
+      "cr3",
+      "nef",
+      "arw",
+      "raf",
+      "rw2",
+      "orf"
+    ],
+    "videos": [
+      "mp4",
+      "mov",
+      "3gp",
+      "avi",
+      "mts",
+      "m2ts",
+      "mpg",
+      "mpeg",
+      "wmv",
+      "mkv",
+      "m4v",
+      "webm",
+      "flv",
+      "asf",
+      "ts"
+    ],
+    "dvd": [
+      "vob"
+    ],
+    "audio": [
+      "m4a"
+    ]
+  }
+}
